@@ -12,7 +12,12 @@ using namespace std;
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 
+//<<<<<<< HEAD
 	cout << "!!!I hope you Happy !!!" << endl; // prints !!!Hello World!!!
+//=======
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+
+//>>>>>>> refs/heads/master
 
 	return 0;
 }
