@@ -17,7 +17,5 @@ int main() {
 //=======
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 
-//>>>>>>> refs/heads/master
-
 	return 0;
 }
